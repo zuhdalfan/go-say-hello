@@ -1,6 +1,6 @@
 package go_say_hello
 
 func SayHello() string {
-	name := "world badass"
+	name := "pusing pala ane"
 	return name
 }
